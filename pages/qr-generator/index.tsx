@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import Input from '../components/Input';
+import Input from '../../components/Input';
 
 const Index = (): JSX.Element => {
   const [src, setSrc] = useState('');

@@ -30,6 +30,7 @@
     "ts-jest": "^29.0.5",
     "typescript": "^4.9.4"
   },
+  "homepage": "/qr-generator",
   "name": "qr-generator",
   "scripts": {
     "dev": "next dev",
